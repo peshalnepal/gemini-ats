@@ -1,0 +1,18 @@
+# Ignore virtual-environment folders
+venv/
+.venv/
+
+# Ignore environment variables
+.env
+
+# Byte-code files
+__pycache__/
+*.py[cod]
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Jupyter and Streamlit artifacts
+.ipynb_checkpoints/
+.streamlit/*cache*/
