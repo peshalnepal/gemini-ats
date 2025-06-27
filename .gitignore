@@ -16,3 +16,6 @@ Thumbs.db
 # Jupyter and Streamlit artifacts
 .ipynb_checkpoints/
 .streamlit/*cache*/
+
+#ignore test file
+test.py
